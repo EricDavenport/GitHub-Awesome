@@ -1,4 +1,4 @@
-##Practice Prsactice Practice
+## Practice Practice Practice
 
 1. git init
 1. git status
@@ -6,14 +6,19 @@
 1. git push
 1. got log - shows history
 
-##Terminal
+## Terminal
 1. ls
 1. cd
 1. touch
 1. rm- deletes file
 1. rm -rf - deletes directory
 
-##Steps to create repo in terminal
+## VI(Visual Editor)
+1. :wq - saves nd exits
+1. esc - command mode
+1. i - insert mode
+
+## Steps to create repo in terminal
 1. edit your file
 1. git status (optional)
 1. git add "file name"
