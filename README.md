@@ -13,3 +13,9 @@
 1. rm- deletes file
 1. rm -rf - deletes directory
 
+##Steps to create repo in terminal
+1. edit your file
+1. git status (optional)
+1. git add "file name"
+1. git commit -m "message"
+1. git push
